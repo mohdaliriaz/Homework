@@ -1,0 +1,11 @@
+Entity Relationship Diagram : An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database. An entity in this context is an object, a component of data. An entity set is a collection of similar entities. These entities can have attributes that define its properties.
+
+Entity Data Model : The Entity Data Model (EDM) is an extended version of the Entity-Relationship model which specifies the conceptual model of the data using various modelling technique. It also refers to a set of concepts that describe data structure, regardless of its stored form.
+
+Assymetric encryption : Asymmetric Encryption is a form of Encryption where keys come in pairs. What one key encrypts, only the other can decrypt.
+
+Frequently, the keys are interchangeable, in the sense that if key A encrypts a message, then B can decrypt it, and if key B encrypts a message, then key A can decrypt it. While common, this property is not essential to asymmetric encryption.
+
+Asymmetric Encryption is also known as Public Key Cryptography, since users typically create a matching key pair, and make one public while keeping the other secret.
+
+Curl : Curl is a tool to transfer data from or to a server, using one of the supported protocols (DICT, FILE, FTP, FTPS, GOPHER, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP). The command is designed to work without user interaction.
